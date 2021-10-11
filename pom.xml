@@ -7,6 +7,14 @@
     <groupId>org.example</groupId>
     <artifactId>Santana-cop3330-assignment3</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 
     <properties>
         <maven.compiler.source>16</maven.compiler.source>
@@ -14,3 +22,4 @@
     </properties>
 
 </project>
+
